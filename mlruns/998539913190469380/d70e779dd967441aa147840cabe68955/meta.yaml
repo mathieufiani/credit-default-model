@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/d70e779dd967441aa147840cabe68955/artifacts
+end_time: 1774631613036
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: d70e779dd967441aa147840cabe68955
+run_name: invincible-snake-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631609809
+status: 3
+tags: []
+user_id: mathieufiani

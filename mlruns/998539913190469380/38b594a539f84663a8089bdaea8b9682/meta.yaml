@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/38b594a539f84663a8089bdaea8b9682/artifacts
+end_time: 1774631647823
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 38b594a539f84663a8089bdaea8b9682
+run_name: legendary-mole-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631646426
+status: 3
+tags: []
+user_id: mathieufiani

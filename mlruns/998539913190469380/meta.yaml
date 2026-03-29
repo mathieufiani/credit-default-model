@@ -1,0 +1,6 @@
+artifact_location: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380
+creation_time: 1774631489162
+experiment_id: '998539913190469380'
+last_update_time: 1774631489162
+lifecycle_stage: active
+name: credit-default-model

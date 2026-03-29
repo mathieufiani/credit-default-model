@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/0069aa91e7644304ad04656cd93e76a3/artifacts
+end_time: 1774631535707
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 0069aa91e7644304ad04656cd93e76a3
+run_name: abundant-wolf-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631532534
+status: 3
+tags: []
+user_id: mathieufiani

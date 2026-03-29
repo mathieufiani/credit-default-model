@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/79b8da303f08465cb848c5b1371960db/artifacts
+end_time: 1774631548969
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 79b8da303f08465cb848c5b1371960db
+run_name: luminous-shrew-321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631543904
+status: 3
+tags: []
+user_id: mathieufiani

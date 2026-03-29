@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/47f5297587624200acfb15d338975eec/artifacts
+end_time: 1774631597418
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 47f5297587624200acfb15d338975eec
+run_name: hilarious-asp-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631594246
+status: 3
+tags: []
+user_id: mathieufiani

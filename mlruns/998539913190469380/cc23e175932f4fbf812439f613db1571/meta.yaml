@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/cc23e175932f4fbf812439f613db1571/artifacts
+end_time: 1774631586012
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: cc23e175932f4fbf812439f613db1571
+run_name: burly-mink-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631582495
+status: 3
+tags: []
+user_id: mathieufiani

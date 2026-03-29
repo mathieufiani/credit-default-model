@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/c6fbddb5948e42dd8b5d13b6e5a285c1/artifacts
+end_time: 1774631558508
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: c6fbddb5948e42dd8b5d13b6e5a285c1
+run_name: dashing-fowl-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631556218
+status: 3
+tags: []
+user_id: mathieufiani

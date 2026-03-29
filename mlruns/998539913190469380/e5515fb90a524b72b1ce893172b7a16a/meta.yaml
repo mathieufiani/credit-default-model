@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/e5515fb90a524b72b1ce893172b7a16a/artifacts
+end_time: 1774631582490
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: e5515fb90a524b72b1ce893172b7a16a
+run_name: receptive-goose-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631578024
+status: 3
+tags: []
+user_id: mathieufiani

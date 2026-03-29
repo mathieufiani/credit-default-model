@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/9612ed8bb8d142dfab004b38a2804d46/artifacts
+end_time: 1774631637010
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 9612ed8bb8d142dfab004b38a2804d46
+run_name: efficient-panda-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631634497
+status: 3
+tags: []
+user_id: mathieufiani

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/718007f1c5504902954f86ad56224b77/artifacts
+end_time: 1774631621670
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 718007f1c5504902954f86ad56224b77
+run_name: likeable-boar-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631616936
+status: 3
+tags: []
+user_id: mathieufiani

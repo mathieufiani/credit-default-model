@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/ce418bcb2534424683a7e76b326a7251/artifacts
+end_time: 1774631518442
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: ce418bcb2534424683a7e76b326a7251
+run_name: rogue-rook-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631515836
+status: 3
+tags: []
+user_id: mathieufiani

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/b9aafddc85e34552bc5ca971bd31fb07/artifacts
+end_time: 1774631601848
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: b9aafddc85e34552bc5ca971bd31fb07
+run_name: resilient-kite-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631597424
+status: 3
+tags: []
+user_id: mathieufiani

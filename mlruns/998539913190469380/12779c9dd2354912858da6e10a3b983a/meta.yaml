@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/12779c9dd2354912858da6e10a3b983a/artifacts
+end_time: 1774631641374
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 12779c9dd2354912858da6e10a3b983a
+run_name: burly-snipe-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631639284
+status: 3
+tags: []
+user_id: mathieufiani

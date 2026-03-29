@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/1c0c2daea292444cbf6e0cd670fe8f92/artifacts
+end_time: 1774631513197
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 1c0c2daea292444cbf6e0cd670fe8f92
+run_name: whimsical-yak-62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631510605
+status: 3
+tags: []
+user_id: mathieufiani

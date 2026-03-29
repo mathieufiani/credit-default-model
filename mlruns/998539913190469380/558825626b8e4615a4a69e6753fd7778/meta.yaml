@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/558825626b8e4615a4a69e6753fd7778/artifacts
+end_time: 1774631566773
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 558825626b8e4615a4a69e6753fd7778
+run_name: bald-grouse-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631562699
+status: 3
+tags: []
+user_id: mathieufiani

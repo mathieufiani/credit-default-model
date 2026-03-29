@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/f20b6f355b124690ba3ec7ba27506af7/artifacts
+end_time: 1774631507454
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: f20b6f355b124690ba3ec7ba27506af7
+run_name: clumsy-snake-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631504014
+status: 3
+tags: []
+user_id: mathieufiani

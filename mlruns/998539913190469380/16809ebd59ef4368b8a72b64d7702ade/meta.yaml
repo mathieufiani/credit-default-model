@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/16809ebd59ef4368b8a72b64d7702ade/artifacts
+end_time: 1774631661391
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 16809ebd59ef4368b8a72b64d7702ade
+run_name: optuna_search
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631489226
+status: 3
+tags: []
+user_id: mathieufiani

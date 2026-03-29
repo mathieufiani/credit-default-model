@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/8a4f362caabc4b84a5ffbdf5e1764178/artifacts
+end_time: 1774631657428
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 8a4f362caabc4b84a5ffbdf5e1764178
+run_name: thundering-stag-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631653313
+status: 3
+tags: []
+user_id: mathieufiani

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/c4eda644c784447590a66d984eda114c/artifacts
+end_time: 1774631616929
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: c4eda644c784447590a66d984eda114c
+run_name: industrious-gnu-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631613042
+status: 3
+tags: []
+user_id: mathieufiani

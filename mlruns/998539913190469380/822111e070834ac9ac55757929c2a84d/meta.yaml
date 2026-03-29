@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/822111e070834ac9ac55757929c2a84d/artifacts
+end_time: 1774631594241
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 822111e070834ac9ac55757929c2a84d
+run_name: awesome-ox-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631590453
+status: 3
+tags: []
+user_id: mathieufiani

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/700f756441fb4828b6a1c013b1c569b5/artifacts
+end_time: 1774631509371
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 700f756441fb4828b6a1c013b1c569b5
+run_name: hilarious-midge-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631507456
+status: 3
+tags: []
+user_id: mathieufiani

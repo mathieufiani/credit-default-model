@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/03f299d7b51c43a2897b57b450ff4807/artifacts
+end_time: 1774631504012
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 03f299d7b51c43a2897b57b450ff4807
+run_name: casual-crane-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631499776
+status: 3
+tags: []
+user_id: mathieufiani

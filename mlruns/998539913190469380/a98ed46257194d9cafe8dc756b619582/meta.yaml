@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/a98ed46257194d9cafe8dc756b619582/artifacts
+end_time: 1774631578018
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: a98ed46257194d9cafe8dc756b619582
+run_name: rebellious-toad-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631574894
+status: 3
+tags: []
+user_id: mathieufiani

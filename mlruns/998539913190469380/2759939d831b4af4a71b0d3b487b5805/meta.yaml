@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/2759939d831b4af4a71b0d3b487b5805/artifacts
+end_time: 1774631522845
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 2759939d831b4af4a71b0d3b487b5805
+run_name: able-newt-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631518449
+status: 3
+tags: []
+user_id: mathieufiani

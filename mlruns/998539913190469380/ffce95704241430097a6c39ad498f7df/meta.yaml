@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/ffce95704241430097a6c39ad498f7df/artifacts
+end_time: 1774631496811
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: ffce95704241430097a6c39ad498f7df
+run_name: flawless-asp-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631494077
+status: 3
+tags: []
+user_id: mathieufiani

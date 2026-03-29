@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/22c70c15612244a4b6abebdc0cc8d19e/artifacts
+end_time: 1774631590447
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 22c70c15612244a4b6abebdc0cc8d19e
+run_name: angry-elk-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631586017
+status: 3
+tags: []
+user_id: mathieufiani

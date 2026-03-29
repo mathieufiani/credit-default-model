@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/6385c05e495148c8be08a14ad87cb581/artifacts
+end_time: 1774631574887
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 6385c05e495148c8be08a14ad87cb581
+run_name: auspicious-wasp-638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631571439
+status: 3
+tags: []
+user_id: mathieufiani

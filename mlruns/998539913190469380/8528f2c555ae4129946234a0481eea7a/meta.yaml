@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/8528f2c555ae4129946234a0481eea7a/artifacts
+end_time: 1774631644242
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 8528f2c555ae4129946234a0481eea7a
+run_name: sassy-robin-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631641381
+status: 3
+tags: []
+user_id: mathieufiani

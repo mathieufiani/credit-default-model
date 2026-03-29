@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/6cba38e801e04eb0a2cce5d37f8250c6/artifacts
+end_time: 1774631562693
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 6cba38e801e04eb0a2cce5d37f8250c6
+run_name: trusting-lark-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631558514
+status: 3
+tags: []
+user_id: mathieufiani

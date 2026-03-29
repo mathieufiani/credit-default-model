@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/d4596b069c0944fc8b5218220de001bb/artifacts
+end_time: 1774631661389
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: d4596b069c0944fc8b5218220de001bb
+run_name: abundant-mink-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631657435
+status: 3
+tags: []
+user_id: mathieufiani

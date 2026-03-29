@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/f095f75a29064f7d9edd65867819f103/artifacts
+end_time: 1774631525633
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: f095f75a29064f7d9edd65867819f103
+run_name: awesome-doe-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631522850
+status: 3
+tags: []
+user_id: mathieufiani

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/588f8b37810845aba30f1024fb4c6a14/artifacts
+end_time: 1774631605923
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 588f8b37810845aba30f1024fb4c6a14
+run_name: able-donkey-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631601853
+status: 3
+tags: []
+user_id: mathieufiani

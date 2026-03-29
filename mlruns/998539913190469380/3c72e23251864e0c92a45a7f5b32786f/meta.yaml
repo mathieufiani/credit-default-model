@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/3c72e23251864e0c92a45a7f5b32786f/artifacts
+end_time: 1774631528781
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: 3c72e23251864e0c92a45a7f5b32786f
+run_name: bedecked-kit-877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631525638
+status: 3
+tags: []
+user_id: mathieufiani

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/ab2c1be62d4649079cef72e930f0041d/artifacts
+end_time: 1774631515834
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: ab2c1be62d4649079cef72e930f0041d
+run_name: delicate-gull-684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631513199
+status: 3
+tags: []
+user_id: mathieufiani

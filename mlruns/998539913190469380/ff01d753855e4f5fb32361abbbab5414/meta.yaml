@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mathieufiani/work/Dev/DS_Projects/credit_risk/default_pred/mlruns/998539913190469380/ff01d753855e4f5fb32361abbbab5414/artifacts
+end_time: 1774631539781
+entry_point_name: ''
+experiment_id: '998539913190469380'
+lifecycle_stage: active
+run_id: ff01d753855e4f5fb32361abbbab5414
+run_name: brawny-mule-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774631535712
+status: 3
+tags: []
+user_id: mathieufiani
